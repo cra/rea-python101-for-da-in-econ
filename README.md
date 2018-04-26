@@ -11,3 +11,5 @@
 В папке datasets лежат некоторые данные, которые используются как примеры для занятий
 
 Датасет iris скачан из [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml). Подробнее о нём можно прочитать [на соответствующей странице](http://archive.ics.uci.edu/ml/datasets/Iris)
+
+

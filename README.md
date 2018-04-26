@@ -12,4 +12,5 @@
 
 Датасет iris скачан из [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml). Подробнее о нём можно прочитать [на соответствующей странице](http://archive.ics.uci.edu/ml/datasets/Iris)
 
-
+Датасет tips о чаевых рассмотрен в тексте
+Bryant, P. G. and Smith, M (1995) Practical Data Analysis: Case Studies in Business Statistics. Homewood, IL: Richard D. Irwin Publishing:
